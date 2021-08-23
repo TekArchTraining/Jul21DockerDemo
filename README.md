@@ -8,9 +8,6 @@ This Repo will demonstrate the use of Spring Boot with Docker for complete CICD
 
 1. Initialize GIT Repo in Github
 2. Cloning the project to local system
-
-### To be Done 
-
 3. Set up basic Spring Boot application
 4. Connect it to the local MySQL DB
 5. Run the application locally
@@ -20,6 +17,9 @@ This Repo will demonstrate the use of Spring Boot with Docker for complete CICD
 9. Build a jar file from the project using Maven
 10. Run the same application without using Intellij
 11. Create a Docker Image running your MicroService using the Dockerfile
+
+### To be Done 
+
 12. Run the Docker Image to create a Docker Container
 
 ### Future demo
